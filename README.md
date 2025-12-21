@@ -20,6 +20,7 @@ In electric circuits analysis, nodal analysis, node-voltage analysis, or the bra
 
 **Circuit diagram**
 
+![WhatsApp Image 2025-12-21 at 21 23 45_f821de40](https://github.com/user-attachments/assets/1b136d97-10f0-40b7-9835-ee06cd10e397)
 
  
 **PROCEDURE:**
