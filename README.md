@@ -1,5 +1,8 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
 
+SYED NIYAZ A
+212225060284
+
 **AIM:**
 
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
